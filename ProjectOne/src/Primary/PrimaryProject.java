@@ -5,6 +5,7 @@ public class PrimaryProject {
 		System.out.println("teste para sistema");
 		System.out.println("alterção para sistema");
 		System.out.println("nova alteração");//roda diacho 
+		System.out.println("nova alteração");//roda diacho 
 		
 	}
 
