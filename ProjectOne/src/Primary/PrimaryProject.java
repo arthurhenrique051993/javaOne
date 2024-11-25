@@ -4,7 +4,7 @@ public class PrimaryProject {
 	public static void main (String []args) {
 		System.out.println("teste para sistema");
 		System.out.println("alterção para sistema");
-		System.out.println("nova alteração");//roda 
+		System.out.println("nova alteração");//roda diacho 
 		
 	}
 
